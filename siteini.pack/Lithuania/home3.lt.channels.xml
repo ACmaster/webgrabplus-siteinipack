@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" site="">
+  <channels>
+    <channel update="i" site="home3.lt" site_id="303" xmltv_id="TV3 HD">TV3 HD</channel>
+    <channel update="i" site="home3.lt" site_id="304" xmltv_id="TV6">TV6</channel>
+    <channel update="i" site="home3.lt" site_id="545" xmltv_id="TV8">TV8</channel>
+    <channel update="i" site="home3.lt" site_id="306" xmltv_id="LRT">LRT</channel>
+    <channel update="i" site="home3.lt" site_id="325" xmltv_id="LRT Lituanica">LRT Lituanica</channel>
+    <channel update="i" site="home3.lt" site_id="301" xmltv_id="LNK">LNK</channel>
+    <channel update="i" site="home3.lt" site_id="305" xmltv_id="BTV">BTV</channel>
+    <channel update="i" site="home3.lt" site_id="302" xmltv_id="TV1">TV1</channel>
+    <channel update="i" site="home3.lt" site_id="318" xmltv_id="Lietuvos ryto TV">Lietuvos ryto TV</channel>
+    <channel update="i" site="home3.lt" site_id="975" xmltv_id="TV3 Film">TV3 Film</channel>
+    <channel update="i" site="home3.lt" site_id="977" xmltv_id="TV1000">TV1000</channel>
+    <channel update="i" site="home3.lt" site_id="976" xmltv_id="TV1000 Action">TV1000 Action</channel>
+    <channel update="i" site="home3.lt" site_id="978" xmltv_id="TV1000 Ruskoje Kino">TV1000 Ruskoje Kino</channel>
+    <channel update="i" site="home3.lt" site_id="242" xmltv_id="Epic Drama">Epic Drama</channel>
+    <channel update="i" site="home3.lt" site_id="908" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="home3.lt" site_id="957" xmltv_id="Sony Channel">Sony Channel</channel>
+    <channel update="i" site="home3.lt" site_id="663" xmltv_id="Sony Turbo">Sony Turbo</channel>
+    <channel update="i" site="home3.lt" site_id="919" xmltv_id="TV3 Sport">TV3 Sport</channel>
+    <channel update="i" site="home3.lt" site_id="1101" xmltv_id="TV3 Sport 2">TV3 Sport 2</channel>
+    <channel update="i" site="home3.lt" site_id="695" xmltv_id="TV3 Sport 3">TV3 Sport 3</channel>
+    <channel update="i" site="home3.lt" site_id="338" xmltv_id="NBA TV">NBA TV</channel>
+    <channel update="i" site="home3.lt" site_id="933" xmltv_id="Setanta Sports 1">Setanta Sports 1</channel>
+    <channel update="i" site="home3.lt" site_id="941" xmltv_id="Viasat History HD">Viasat History HD</channel>
+    <channel update="i" site="home3.lt" site_id="972" xmltv_id="Viasat Explore HD">Viasat Explore HD</channel>
+    <channel update="i" site="home3.lt" site_id="958" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="home3.lt" site_id="936" xmltv_id="Nat Geographic HD">Nat Geographic HD</channel>
+    <channel update="i" site="home3.lt" site_id="145" xmltv_id="Ohota i Rybalka">Ohota i Rybalka</channel>
+    <channel update="i" site="home3.lt" site_id="69" xmltv_id="MTV HITS">MTV HITS</channel>
+    <channel update="i" site="home3.lt" site_id="68" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="home3.lt" site_id="985" xmltv_id="Playboy">Playboy</channel>
+    <channel update="i" site="home3.lt" site_id="905" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="home3.lt" site_id="907" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="home3.lt" site_id="906" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="home3.lt" site_id="960" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="home3.lt" site_id="560" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="home3.lt" site_id="896" xmltv_id="Kidzone +">Kidzone +</channel>
+    <channel update="i" site="home3.lt" site_id="546" xmltv_id="CTC Baltic">CTC Baltic</channel>
+    <channel update="i" site="home3.lt" site_id="199" xmltv_id="REN TV">REN TV</channel>
+    <channel update="i" site="home3.lt" site_id="106" xmltv_id="NTV Mir">NTV Mir</channel>
+    <channel update="i" site="home3.lt" site_id="208" xmltv_id="PBK Baltic">PBK Baltic</channel>
+    <channel update="i" site="home3.lt" site_id="80" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="home3.lt" site_id="78" xmltv_id="CNN">CNN</channel>
+  </channels>
+</site>
