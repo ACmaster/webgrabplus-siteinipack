@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" site="">
+  <channels>
+    <channel update="i" site="home3.ee" site_id="919" xmltv_id="TV3 Sport">TV3 Sport</channel>
+    <channel update="i" site="home3.ee" site_id="1101" xmltv_id="TV3 Sport2">TV3 Sport2</channel>
+    <channel update="i" site="home3.ee" site_id="695" xmltv_id="TV3 Sport3">TV3 Sport3</channel>
+    <channel update="i" site="home3.ee" site_id="338" xmltv_id="NBA TV">NBA TV</channel>
+    <channel update="i" site="home3.ee" site_id="933" xmltv_id="Setanta Sports 1">Setanta Sports 1</channel>
+    <channel update="i" site="home3.ee" site_id="11" xmltv_id="ETV">ETV</channel>
+    <channel update="i" site="home3.ee" site_id="9" xmltv_id="ETV 2">ETV 2</channel>
+    <channel update="i" site="home3.ee" site_id="962" xmltv_id="ETV+">ETV+</channel>
+    <channel update="i" site="home3.ee" site_id="12" xmltv_id="Kanal 2">Kanal 2</channel>
+    <channel update="i" site="home3.ee" site_id="13" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="home3.ee" site_id="6" xmltv_id="TV6">TV6</channel>
+    <channel update="i" site="home3.ee" site_id="10" xmltv_id="Kanal 11">Kanal 11</channel>
+    <channel update="i" site="home3.ee" site_id="25" xmltv_id="Kanal 12">Kanal 12</channel>
+    <channel update="i" site="home3.ee" site_id="908" xmltv_id="FOX">FOX</channel>
+    <channel update="i" site="home3.ee" site_id="663" xmltv_id="Sony Turbo">Sony Turbo</channel>
+    <channel update="i" site="home3.ee" site_id="975" xmltv_id="TV3 Film">TV3 Film</channel>
+    <channel update="i" site="home3.ee" site_id="977" xmltv_id="TV1000">TV1000</channel>
+    <channel update="i" site="home3.ee" site_id="976" xmltv_id="TV1000 Action">TV1000 Action</channel>
+    <channel update="i" site="home3.ee" site_id="978" xmltv_id="TV1000 Russkoe Kino">TV1000 Russkoe Kino</channel>
+    <channel update="i" site="home3.ee" site_id="242" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
+    <channel update="i" site="home3.ee" site_id="985" xmltv_id="Playboy TV">Playboy TV</channel>
+    <channel update="i" site="home3.ee" site_id="980" xmltv_id="Brazzers TV Europe">Brazzers TV Europe</channel>
+    <channel update="i" site="home3.ee" site_id="649" xmltv_id="Nicktoons">Nicktoons</channel>
+    <channel update="i" site="home3.ee" site_id="906" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="home3.ee" site_id="907" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="home3.ee" site_id="905" xmltv_id="Disney Channel">Disney Channel</channel>
+    <channel update="i" site="home3.ee" site_id="960" xmltv_id="Nickelodeon">Nickelodeon</channel>
+    <channel update="i" site="home3.ee" site_id="560" xmltv_id="Nick Junior">Nick Junior</channel>
+    <channel update="i" site="home3.ee" site_id="199" xmltv_id="Ren TV Baltic">Ren TV Baltic</channel>
+    <channel update="i" site="home3.ee" site_id="546" xmltv_id="CTC Baltic">CTC Baltic</channel>
+    <channel update="i" site="home3.ee" site_id="106" xmltv_id="NTV Mir Baltic">NTV Mir Baltic</channel>
+    <channel update="i" site="home3.ee" site_id="208" xmltv_id="PBK Baltic">PBK Baltic</channel>
+    <channel update="i" site="home3.ee" site_id="412" xmltv_id="Russia Today">Russia Today</channel>
+    <channel update="i" site="home3.ee" site_id="80" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="home3.ee" site_id="78" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="home3.ee" site_id="145" xmltv_id="Ohhota ja Rybalka">Ohhota ja Rybalka</channel>
+    <channel update="i" site="home3.ee" site_id="936" xmltv_id="National Geographic HD">National Geographic HD</channel>
+    <channel update="i" site="home3.ee" site_id="973" xmltv_id="Viasat History">Viasat History</channel>
+    <channel update="i" site="home3.ee" site_id="972" xmltv_id="Viasat Explore">Viasat Explore</channel>
+    <channel update="i" site="home3.ee" site_id="958" xmltv_id="Viasat Nature">Viasat Nature</channel>
+    <channel update="i" site="home3.ee" site_id="68" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="home3.ee" site_id="69" xmltv_id="MTV Hits">MTV Hits</channel>
+  </channels>
+</site>
